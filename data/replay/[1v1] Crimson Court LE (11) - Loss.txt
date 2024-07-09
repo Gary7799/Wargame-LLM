@@ -1,0 +1,895 @@
+00:39	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [4540002] done
+01:14	Player 1 - Tbag (Terran) - Unit Refinery [4BC0001] done
+01:18	Player 2 - xBenx (Zerg) - Unit Extractor [4C00001] done
+01:25	Player 1 - Tbag (Terran) - Unit Barracks [4AC0001] done
+01:56	Player 2 - xBenx (Zerg) - Unit Hatchery [4B00001] done
+02:13	Player 2 - xBenx (Zerg) - Unit SpawningPool [4D40001] done
+02:16	Player 1 - Tbag (Terran) - Unit SupplyDepot [4E40001] done
+02:37	Player 1 - Tbag (Terran) - Unit Refinery [4640002] done
+02:52	Player 1 - Tbag (Terran) - Unit Barracks [4C80002] done
+02:57	Player 1 - Tbag (Terran) - Unit OrbitalCommand [4DC0001] done
+02:59	Player 1 - Tbag (Terran) - Unit BarracksTechLab [4F40002] done
+03:08	Player 2 - xBenx (Zerg) - Unit CreepTumorBurrowed [5480001] done
+03:10	Player 2 - xBenx (Zerg) - Unit SpineCrawler [5040002] done
+03:13	Player 1 - Tbag (Terran) - Unit Factory [5140001] done
+03:17	Player 2 - xBenx (Zerg) - Unit SpineCrawler [52C0002] done
+03:55	Player 1 - Tbag (Terran) - Unit Barracks [4E00003] done
+04:00	Player 2 - xBenx (Zerg) - Unit SpineCrawler [5680002] done
+04:03	Player 1 - Tbag (Terran) - Unit StarportReactor [5240002] done
+04:05	Player 1 - Tbag (Terran) - Unit Starport [58C0001] done
+04:05	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [5A40001] done
+04:27	Player 2 - xBenx (Zerg) - Unit Extractor [5C80005] done
+04:28	Player 2 - xBenx (Zerg) - Unit Extractor [5A00002] done
+04:32	Player 2 - xBenx (Zerg) - Unit RoachWarren [5CC0001] done
+04:35	Player 1 - Tbag (Terran) - Unit FactoryTechLab [5B00002] done
+04:35	Player 1 - Tbag (Terran) - Unit SupplyDepot [5F40002] done
+04:48	Player 1 - Tbag (Terran) - Unit EngineeringBay [6080001] done
+04:49	Player 2 - xBenx (Zerg) - Unit Extractor [59C0002] done
+04:52	Player 2 - xBenx (Zerg) - Unit CreepTumorBurrowed [6400001] done
+04:55	Player 2 - xBenx (Zerg) - Unit SporeCrawler [4780002] done
+04:56	Player 2 - xBenx (Zerg) - Unit SporeCrawler [5740002] done
+04:57	Player 1 - Tbag (Terran) - Unit SupplyDepot [6300001] done
+05:00	Player 1 - Tbag (Terran) - Unit SupplyDepot [62C0002] done
+05:02	Player 1 - Tbag (Terran) - Unit BarracksReactor [6140001] done
+05:12	Player 1 - Tbag (Terran) - Unit Refinery [5880003] done
+05:15	Player 1 - Tbag (Terran) - Unit Refinery [6600001] done
+05:20	Player 1 - Tbag (Terran) - Unit SupplyDepot [55C0003] done
+05:22	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [66C0001] done
+05:41	Player 1 - Tbag (Terran) - Unit BarracksReactor [6900001] done
+05:42	Player 2 - xBenx (Zerg) - Unit EvolutionChamber [54C0003] done
+05:44	Player 2 - xBenx (Zerg) - Unit EvolutionChamber [6A80001] done
+05:50	Player 2 - xBenx (Zerg) - Unit SporeCrawler [6C80001] done
+06:00	Player 2 - xBenx (Zerg) - Unit Hatchery [4A40004] done
+06:08	Player 2 - xBenx (Zerg) - Unit HydraliskDen [6D00002] done
+06:20	Player 2 - xBenx (Zerg) - Unit CreepTumorBurrowed [6D80004] done
+06:34	Player 1 - Tbag (Terran) - Unit EngineeringBay [54C0007] done
+06:35	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [5D80003] done
+06:38	Player 1 - Tbag (Terran) - Unit OrbitalCommand [6B80001] done
+06:52	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [7080001] done
+06:54	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [70C0001] done
+06:55	Player 1 - Tbag (Terran) - Unit Armory [6C40002] done
+06:57	Player 2 - xBenx (Zerg) - Unit SpineCrawler [6F00002] done
+07:14	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [7340001] done
+07:15	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [7500001] done
+07:22	Player 2 - xBenx (Zerg) - Unit SpineCrawler [71C0001] done
+07:22	Player 2 - xBenx (Zerg) - Unit CreepTumorBurrowed [75C0001] done
+07:27	Player 2 - xBenx (Zerg) - Unit BanelingNest [5800003] done
+07:32	Player 2 - xBenx (Zerg) - Unit SpineCrawler [7540001] done
+08:00	Player 1 - Tbag (Terran) - Unit Barracks [77C0001] done
+08:00	Player 1 - Tbag (Terran) - Unit Barracks [7800001] done
+08:01	Player 1 - Tbag (Terran) - Unit Barracks [7840001] done
+08:06	Player 1 - Tbag (Terran) - Unit SupplyDepot [2C40002] done
+08:07	Player 2 - xBenx (Zerg) - Unit SporeCrawler [7940002] done
+08:08	Player 1 - Tbag (Terran) - Unit Refinery [7900002] done
+08:10	Player 2 - xBenx (Zerg) - Unit SporeCrawler [3080002] done
+08:11	Player 1 - Tbag (Terran) - Unit Refinery [7B40001] done
+08:49	Player 2 - xBenx (Zerg) - Unit SporeCrawler [3940002] done
+08:50	Player 2 - xBenx (Zerg) - Unit SporeCrawler [6F80004] done
+08:55	Player 2 - xBenx (Zerg) - Unit SporeCrawler [C00003] done
+08:56	Player 2 - xBenx (Zerg) - Unit SporeCrawler [32C0003] done
+00:12	Player 1 - Tbag (Terran) - Unit born SCV [4940001]
+00:12	Player 2 - xBenx (Zerg) - Unit born Larva [4980001]
+00:14	Player 2 - xBenx (Zerg) - Unit born Drone [49C0001]
+00:24	Player 1 - Tbag (Terran) - Unit born SCV [4A00001]
+00:29	Player 2 - xBenx (Zerg) - Unit born Larva [4A40001]
+00:30	Player 2 - xBenx (Zerg) - Unit born Drone [4A80001]
+00:36	Player 1 - Tbag (Terran) - Unit born SCV [4580002]
+00:51	Player 1 - Tbag (Terran) - Unit born SCV [4B40001]
+00:52	Player 2 - xBenx (Zerg) - Unit born Larva [4B80001]
+01:00	Player 2 - xBenx (Zerg) - Unit born Overlord [4C40001]
+01:03	Player 1 - Tbag (Terran) - Unit born SCV [45C0002]
+01:03	Player 2 - xBenx (Zerg) - Unit born Larva [4C80001]
+01:04	Player 2 - xBenx (Zerg) - Unit born Drone [4CC0001]
+01:10	Player 2 - xBenx (Zerg) - Unit born Drone [4980002]
+01:14	Player 2 - xBenx (Zerg) - Unit born Larva [4A40002]
+01:15	Player 1 - Tbag (Terran) - Unit born SCV [4D00001]
+01:22	Player 2 - xBenx (Zerg) - Unit born Drone [4800002]
+01:25	Player 2 - xBenx (Zerg) - Unit born Larva [4B80002]
+01:27	Player 1 - Tbag (Terran) - Unit born SCV [4D80001]
+01:54	Player 1 - Tbag (Terran) - Unit born MULE [4E00001]
+01:56	Player 2 - xBenx (Zerg) - Unit born Larva [4E80001]
+01:56	Player 2 - xBenx (Zerg) - Unit born Larva [4EC0001]
+02:03	Player 2 - xBenx (Zerg) - Unit born Overlord [4A80002]
+02:05	Player 2 - xBenx (Zerg) - Unit born Drone [4A40003]
+02:05	Player 2 - xBenx (Zerg) - Unit born Drone [4F00001]
+02:06	Player 1 - Tbag (Terran) - Unit born SCV [4B80003]
+02:07	Player 2 - xBenx (Zerg) - Unit born Larva [4F40001]
+02:07	Player 2 - xBenx (Zerg) - Unit born Larva [4F80001]
+02:11	Player 2 - xBenx (Zerg) - Unit born Drone [4FC0001]
+02:12	Player 2 - xBenx (Zerg) - Unit born Drone [4E80002]
+02:17	Player 1 - Tbag (Terran) - Unit born Reaper [4EC0002]
+02:17	Player 2 - xBenx (Zerg) - Unit born Larva [5000001]
+02:17	Player 2 - xBenx (Zerg) - Unit born Larva [5040001]
+02:20	Player 1 - Tbag (Terran) - Unit born SCV [5080001]
+02:28	Player 2 - xBenx (Zerg) - Unit born Larva [50C0001]
+02:28	Player 2 - xBenx (Zerg) - Unit born Larva [5100001]
+02:32	Player 1 - Tbag (Terran) - Unit born SCV [5180001]
+02:34	Player 2 - xBenx (Zerg) - Unit born Drone [51C0001]
+02:34	Player 2 - xBenx (Zerg) - Unit born Drone [4F80002]
+02:35	Player 1 - Tbag (Terran) - Unit born Marine [5200001]
+02:39	Player 2 - xBenx (Zerg) - Unit born Larva [5240001]
+02:39	Player 2 - xBenx (Zerg) - Unit born Larva [5280001]
+02:40	Player 2 - xBenx (Zerg) - Unit born Drone [5300001]
+02:44	Player 1 - Tbag (Terran) - Unit born KD8Charge [5340001]
+02:45	Player 1 - Tbag (Terran) - Unit born SCV [5380002]
+02:50	Player 2 - xBenx (Zerg) - Unit born Queen [5340002]
+02:50	Player 2 - xBenx (Zerg) - Unit born Larva [53C0001]
+02:50	Player 2 - xBenx (Zerg) - Unit born Queen [5400001]
+02:57	Player 1 - Tbag (Terran) - Unit born SCV [5440001]
+03:00	Player 1 - Tbag (Terran) - Unit born MULE [54C0001]
+03:09	Player 1 - Tbag (Terran) - Unit born SCV [5500002]
+03:12	Player 1 - Tbag (Terran) - Unit born Marine [4CC0004]
+03:15	Player 2 - xBenx (Zerg) - Unit born Larva [5540005]
+03:17	Player 2 - xBenx (Zerg) - Unit born Drone [4E80003]
+03:17	Player 2 - xBenx (Zerg) - Unit born Drone [5100002]
+03:17	Player 2 - xBenx (Zerg) - Unit born Drone [5280002]
+03:18	Player 2 - xBenx (Zerg) - Unit born Larva [53C0002]
+03:21	Player 1 - Tbag (Terran) - Unit born SCV [5580001]
+03:23	Player 2 - xBenx (Zerg) - Unit born Larva [55C0001]
+03:24	Player 2 - xBenx (Zerg) - Unit born Larva [5640001]
+03:24	Player 2 - xBenx (Zerg) - Unit born Larva [56C0001]
+03:25	Player 1 - Tbag (Terran) - Unit born MULE [5740001]
+03:25	Player 2 - xBenx (Zerg) - Unit born Zergling [5780001]
+03:25	Player 2 - xBenx (Zerg) - Unit born Zergling [57C0001]
+03:25	Player 2 - xBenx (Zerg) - Unit born Zergling [5000002]
+03:25	Player 2 - xBenx (Zerg) - Unit born Zergling [5800001]
+03:25	Player 2 - xBenx (Zerg) - Unit born Zergling [50C0002]
+03:25	Player 2 - xBenx (Zerg) - Unit born Zergling [5840001]
+03:25	Player 1 - Tbag (Terran) - Unit born Marine [5700002]
+03:27	Player 2 - xBenx (Zerg) - Unit born Larva [5600002]
+03:29	Player 2 - xBenx (Zerg) - Unit born Larva [5880001]
+03:33	Player 1 - Tbag (Terran) - Unit born SCV [5900001]
+03:33	Player 1 - Tbag (Terran) - Unit born Marine [5940001]
+03:35	Player 1 - Tbag (Terran) - Unit born SCV [5980001]
+03:37	Player 2 - xBenx (Zerg) - Unit born Drone [59C0001]
+03:37	Player 2 - xBenx (Zerg) - Unit born Drone [5540006]
+03:38	Player 2 - xBenx (Zerg) - Unit born Drone [55C0002]
+03:38	Player 2 - xBenx (Zerg) - Unit born Drone [5640002]
+03:38	Player 2 - xBenx (Zerg) - Unit born Larva [5A00001]
+03:40	Player 2 - xBenx (Zerg) - Unit born Larva [56C0002]
+03:45	Player 1 - Tbag (Terran) - Unit born SCV [5A80001]
+03:46	Player 1 - Tbag (Terran) - Unit born Marine [5AC0001]
+03:48	Player 1 - Tbag (Terran) - Unit born SCV [57C0002]
+03:49	Player 2 - xBenx (Zerg) - Unit born Larva [5B00001]
+03:52	Player 2 - xBenx (Zerg) - Unit born Larva [5B80001]
+03:52	Player 2 - xBenx (Zerg) - Unit born Larva [5B40002]
+03:52	Player 2 - xBenx (Zerg) - Unit born Larva [5C00002]
+03:53	Player 1 - Tbag (Terran) - Unit born Marine [5BC0002]
+04:00	Player 1 - Tbag (Terran) - Unit born SCV [5780002]
+04:02	Player 1 - Tbag (Terran) - Unit born SCV [5C40004]
+04:05	Player 2 - xBenx (Zerg) - Unit born Larva [4EC0003]
+04:05	Player 1 - Tbag (Terran) - Unit born Marine [49C0002]
+04:06	Player 2 - xBenx (Zerg) - Unit born Drone [5D00001]
+04:06	Player 2 - xBenx (Zerg) - Unit born Drone [53C0003]
+04:06	Player 2 - xBenx (Zerg) - Unit born Drone [56C0003]
+04:07	Player 2 - xBenx (Zerg) - Unit born Zergling [5880002]
+04:07	Player 2 - xBenx (Zerg) - Unit born Zergling [5D40001]
+04:07	Player 2 - xBenx (Zerg) - Unit born Zergling [5600003]
+04:07	Player 2 - xBenx (Zerg) - Unit born Zergling [5D80001]
+04:10	Player 1 - Tbag (Terran) - Unit born MULE [54C0002]
+04:11	Player 1 - Tbag (Terran) - Unit born Marine [5DC0001]
+04:11	Player 2 - xBenx (Zerg) - Unit born Larva [5E00001]
+04:12	Player 2 - xBenx (Zerg) - Unit born Larva [5E80001]
+04:12	Player 2 - xBenx (Zerg) - Unit born Larva [5F00001]
+04:14	Player 2 - xBenx (Zerg) - Unit born Larva [5EC0002]
+04:14	Player 1 - Tbag (Terran) - Unit born SCV [5E40002]
+04:15	Player 1 - Tbag (Terran) - Unit born SCV [5F80001]
+04:15	Player 2 - xBenx (Zerg) - Unit born Drone [5FC0001]
+04:21	Player 1 - Tbag (Terran) - Unit born Marine [6000001]
+04:23	Player 1 - Tbag (Terran) - Unit born Marine [6040001]
+04:24	Player 2 - xBenx (Zerg) - Unit born Overlord [60C0001]
+04:24	Player 2 - xBenx (Zerg) - Unit born Overlord [4EC0004]
+04:25	Player 2 - xBenx (Zerg) - Unit born Larva [5B40003]
+04:26	Player 1 - Tbag (Terran) - Unit born SCV [6100001]
+04:27	Player 1 - Tbag (Terran) - Unit born SCV [6180001]
+04:28	Player 1 - Tbag (Terran) - Unit born MULE [61C0001]
+04:29	Player 1 - Tbag (Terran) - Unit born Marine [5540007]
+04:30	Player 2 - xBenx (Zerg) - Unit born Overlord [6200001]
+04:36	Player 2 - xBenx (Zerg) - Unit born Larva [5B80002]
+04:36	Player 2 - xBenx (Zerg) - Unit born Larva [6280001]
+04:37	Player 2 - xBenx (Zerg) - Unit born Larva [6340001]
+04:37	Player 2 - xBenx (Zerg) - Unit born Larva [63C0001]
+04:38	Player 1 - Tbag (Terran) - Unit born SCV [6380002]
+04:39	Player 1 - Tbag (Terran) - Unit born SCV [6240002]
+04:40	Player 2 - xBenx (Zerg) - Unit born Larva [6480001]
+04:40	Player 2 - xBenx (Zerg) - Unit born Larva [6500001]
+04:40	Player 2 - xBenx (Zerg) - Unit born Larva [6580001]
+04:43	Player 1 - Tbag (Terran) - Unit born Medivac [6440002]
+04:43	Player 1 - Tbag (Terran) - Unit born Marine [6540002]
+04:45	Player 2 - xBenx (Zerg) - Unit born Drone [64C0002]
+04:45	Player 2 - xBenx (Zerg) - Unit born Drone [5B40004]
+04:45	Player 2 - xBenx (Zerg) - Unit born Drone [5C00003]
+04:45	Player 2 - xBenx (Zerg) - Unit born Drone [5EC0003]
+04:50	Player 1 - Tbag (Terran) - Unit born SCV [5E00002]
+04:51	Player 1 - Tbag (Terran) - Unit born SCV [65C0002]
+04:58	Player 1 - Tbag (Terran) - Unit born Marine [4600002]
+05:00	Player 2 - xBenx (Zerg) - Unit born Larva [6640001]
+05:01	Player 1 - Tbag (Terran) - Unit born Marine [6680001]
+05:02	Player 1 - Tbag (Terran) - Unit born SCV [6700001]
+05:03	Player 1 - Tbag (Terran) - Unit born SCV [6740001]
+05:05	Player 2 - xBenx (Zerg) - Unit born Larva [6780001]
+05:05	Player 2 - xBenx (Zerg) - Unit born Larva [6800001]
+05:05	Player 2 - xBenx (Zerg) - Unit born Larva [6880001]
+05:10	Player 2 - xBenx (Zerg) - Unit born Larva [68C0002]
+05:11	Player 2 - xBenx (Zerg) - Unit born Larva [67C0002]
+05:11	Player 2 - xBenx (Zerg) - Unit born Larva [6980001]
+05:12	Player 2 - xBenx (Zerg) - Unit born Overlord [6840003]
+05:13	Player 1 - Tbag (Terran) - Unit born MULE [6940002]
+05:15	Player 1 - Tbag (Terran) - Unit born SCV [5B80003]
+05:15	Player 1 - Tbag (Terran) - Unit born SCV [69C0002]
+05:15	Player 1 - Tbag (Terran) - Unit born Medivac [6A00001]
+05:16	Player 1 - Tbag (Terran) - Unit born Medivac [6A40001]
+05:24	Player 1 - Tbag (Terran) - Unit born Marine [6AC0001]
+05:24	Player 1 - Tbag (Terran) - Unit born Marine [6B00001]
+05:25	Player 2 - xBenx (Zerg) - Unit born Drone [6B40001]
+05:25	Player 2 - xBenx (Zerg) - Unit born Drone [6280002]
+05:25	Player 2 - xBenx (Zerg) - Unit born Drone [6340002]
+05:26	Player 1 - Tbag (Terran) - Unit born SCV [6640002]
+05:27	Player 1 - Tbag (Terran) - Unit born SCV [6BC0001]
+05:28	Player 1 - Tbag (Terran) - Unit born Marine [6C00001]
+05:32	Player 1 - Tbag (Terran) - Unit born Hellion [50C0003]
+05:33	Player 2 - xBenx (Zerg) - Unit born Larva [6CC0001]
+05:33	Player 2 - xBenx (Zerg) - Unit born Larva [6D40001]
+05:34	Player 2 - xBenx (Zerg) - Unit born Larva [6DC0001]
+05:39	Player 2 - xBenx (Zerg) - Unit born Larva [61C0002]
+05:40	Player 2 - xBenx (Zerg) - Unit born Egg [6E00002]
+05:40	Player 2 - xBenx (Zerg) - Unit born Egg [6E80001]
+05:42	Player 2 - xBenx (Zerg) - Unit born Drone [5100003]
+05:43	Player 2 - xBenx (Zerg) - Unit born Drone [6780002]
+05:43	Player 2 - xBenx (Zerg) - Unit born Drone [6800002]
+05:44	Player 2 - xBenx (Zerg) - Unit born Broodling [54C0004]
+05:44	Player 2 - xBenx (Zerg) - Unit born Broodling [5640003]
+05:44	Player 2 - xBenx (Zerg) - Unit born Broodling [6880002]
+05:44	Player 2 - xBenx (Zerg) - Unit born Broodling [6E40002]
+05:44	Player 2 - xBenx (Zerg) - Unit born Broodling [6D80003]
+05:44	Player 2 - xBenx (Zerg) - Unit born Broodling [4E80004]
+05:46	Player 1 - Tbag (Terran) - Unit born Marine [4C40002]
+05:46	Player 1 - Tbag (Terran) - Unit born Marine [6E40003]
+05:49	Player 1 - Tbag (Terran) - Unit born Marine [5600005]
+05:54	Player 1 - Tbag (Terran) - Unit born SCV [4800004]
+05:54	Player 1 - Tbag (Terran) - Unit born SCV [5D40003]
+06:00	Player 2 - xBenx (Zerg) - Unit born Larva [51C0006]
+06:02	Player 2 - xBenx (Zerg) - Unit born Roach [5400005]
+06:04	Player 1 - Tbag (Terran) - Unit born Marine [6C80002]
+06:04	Player 1 - Tbag (Terran) - Unit born Marine [5E80002]
+06:06	Player 1 - Tbag (Terran) - Unit born SCV [5340003]
+06:07	Player 1 - Tbag (Terran) - Unit born Marine [4740002]
+06:07	Player 2 - xBenx (Zerg) - Unit born Larva [5B40005]
+06:08	Player 2 - xBenx (Zerg) - Unit born Larva [4980003]
+06:08	Player 2 - xBenx (Zerg) - Unit born Larva [5800002]
+06:08	Player 2 - xBenx (Zerg) - Unit born Larva [528000B]
+06:09	Player 2 - xBenx (Zerg) - Unit born Larva [6880003]
+06:09	Player 2 - xBenx (Zerg) - Unit born Larva [6EC0002]
+06:09	Player 1 - Tbag (Terran) - Unit born MULE [5DC0003]
+06:10	Player 1 - Tbag (Terran) - Unit born MULE [5000004]
+06:11	Player 2 - xBenx (Zerg) - Unit born Larva [5640005]
+06:16	Player 1 - Tbag (Terran) - Unit born SCV [5840005]
+06:18	Player 1 - Tbag (Terran) - Unit born SCV [4E80006]
+06:22	Player 1 - Tbag (Terran) - Unit born Marine [6940003]
+06:22	Player 1 - Tbag (Terran) - Unit born Marine [4780003]
+06:22	Player 1 - Tbag (Terran) - Unit born Marine [6F40001]
+06:22	Player 2 - xBenx (Zerg) - Unit born Larva [6F80001]
+06:24	Player 2 - xBenx (Zerg) - Unit born Roach [6FC0001]
+06:25	Player 2 - xBenx (Zerg) - Unit born Roach [51C0007]
+06:25	Player 2 - xBenx (Zerg) - Unit born Roach [5F00002]
+06:25	Player 2 - xBenx (Zerg) - Unit born Roach [61C0003]
+06:28	Player 1 - Tbag (Terran) - Unit born SCV [63C0002]
+06:30	Player 1 - Tbag (Terran) - Unit born Marine [7000001]
+06:30	Player 1 - Tbag (Terran) - Unit born Marine [7040001]
+06:32	Player 2 - xBenx (Zerg) - Unit born Larva [7100001]
+06:35	Player 2 - xBenx (Zerg) - Unit born Drone [7140001]
+06:35	Player 2 - xBenx (Zerg) - Unit born Drone [4980004]
+06:35	Player 2 - xBenx (Zerg) - Unit born Drone [7180001]
+06:37	Player 2 - xBenx (Zerg) - Unit born Drone [5B40006]
+06:37	Player 2 - xBenx (Zerg) - Unit born Drone [528000C]
+06:42	Player 2 - xBenx (Zerg) - Unit born Drone [6880004]
+06:43	Player 2 - xBenx (Zerg) - Unit born Drone [5640006]
+06:43	Player 2 - xBenx (Zerg) - Unit born Larva [6F80002]
+06:47	Player 1 - Tbag (Terran) - Unit born Medivac [7200001]
+06:47	Player 1 - Tbag (Terran) - Unit born Medivac [7240001]
+06:47	Player 1 - Tbag (Terran) - Unit born SCV [7280001]
+06:47	Player 1 - Tbag (Terran) - Unit born SCV [72C0001]
+06:48	Player 1 - Tbag (Terran) - Unit born SiegeTankSieged [7300001]
+06:52	Player 1 - Tbag (Terran) - Unit born Marine [7380001]
+06:52	Player 1 - Tbag (Terran) - Unit born Marine [73C0001]
+06:52	Player 1 - Tbag (Terran) - Unit born Marine [7400001]
+06:52	Player 1 - Tbag (Terran) - Unit born Marine [7440001]
+06:52	Player 1 - Tbag (Terran) - Unit born Marine [7480001]
+06:54	Player 2 - xBenx (Zerg) - Unit born Larva [74C0001]
+06:59	Player 1 - Tbag (Terran) - Unit born SCV [4700002]
+06:59	Player 1 - Tbag (Terran) - Unit born SCV [7580001]
+07:10	Player 1 - Tbag (Terran) - Unit born Marine [7640001]
+07:10	Player 1 - Tbag (Terran) - Unit born Marine [7680001]
+07:10	Player 1 - Tbag (Terran) - Unit born Marine [76C0001]
+07:10	Player 1 - Tbag (Terran) - Unit born Marine [7700001]
+07:10	Player 2 - xBenx (Zerg) - Unit born Larva [7740001]
+07:11	Player 1 - Tbag (Terran) - Unit born SCV [7780001]
+07:13	Player 1 - Tbag (Terran) - Unit born MULE [7600002]
+07:15	Player 2 - xBenx (Zerg) - Unit born Drone [7880001]
+07:15	Player 2 - xBenx (Zerg) - Unit born Drone [6CC0002]
+07:15	Player 2 - xBenx (Zerg) - Unit born Drone [6D40002]
+07:17	Player 1 - Tbag (Terran) - Unit born Marine [5000005]
+07:21	Player 2 - xBenx (Zerg) - Unit born Larva [5DC0004]
+07:24	Player 1 - Tbag (Terran) - Unit born SCV [2CC0002]
+07:24	Player 1 - Tbag (Terran) - Unit born SCV [5B40007]
+07:27	Player 2 - xBenx (Zerg) - Unit born Broodling [4A40005]
+07:27	Player 2 - xBenx (Zerg) - Unit born Broodling [6DC0002]
+07:27	Player 2 - xBenx (Zerg) - Unit born Broodling [78C0001]
+07:27	Player 2 - xBenx (Zerg) - Unit born Broodling [7900001]
+07:27	Player 2 - xBenx (Zerg) - Unit born Broodling [7940001]
+07:27	Player 2 - xBenx (Zerg) - Unit born Broodling [7980001]
+07:27	Player 2 - xBenx (Zerg) - Unit born Broodling [79C0001]
+07:27	Player 2 - xBenx (Zerg) - Unit born Broodling [7A00001]
+07:27	Player 2 - xBenx (Zerg) - Unit born Broodling [7A40001]
+07:28	Player 1 - Tbag (Terran) - Unit born Marine [5EC0004]
+07:28	Player 1 - Tbag (Terran) - Unit born Marine [7A80001]
+07:28	Player 1 - Tbag (Terran) - Unit born Marine [7AC0001]
+07:28	Player 1 - Tbag (Terran) - Unit born Marine [7B00001]
+07:36	Player 1 - Tbag (Terran) - Unit born SCV [5640007]
+07:36	Player 1 - Tbag (Terran) - Unit born SCV [7980002]
+07:37	Player 1 - Tbag (Terran) - Unit born Marine [7A00002]
+07:40	Player 2 - xBenx (Zerg) - Unit born Roach [3180002]
+07:40	Player 2 - xBenx (Zerg) - Unit born Roach [6480002]
+07:40	Player 2 - xBenx (Zerg) - Unit born Roach [6500002]
+07:40	Player 2 - xBenx (Zerg) - Unit born Roach [6580002]
+07:40	Player 2 - xBenx (Zerg) - Unit born Roach [67C0003]
+07:45	Player 2 - xBenx (Zerg) - Unit born Larva [68C0003]
+07:45	Player 2 - xBenx (Zerg) - Unit born Larva [A80002]
+07:46	Player 1 - Tbag (Terran) - Unit born Marine [78C0002]
+07:46	Player 1 - Tbag (Terran) - Unit born Marine [79C0002]
+07:47	Player 1 - Tbag (Terran) - Unit born Marine [6DC0003]
+07:47	Player 1 - Tbag (Terran) - Unit born Marine [7A40002]
+07:49	Player 1 - Tbag (Terran) - Unit born MULE [4A40006]
+07:50	Player 2 - xBenx (Zerg) - Unit born Drone [7B80001]
+07:50	Player 1 - Tbag (Terran) - Unit born MULE [6EC0003]
+07:55	Player 2 - xBenx (Zerg) - Unit born Drone [2280002]
+07:55	Player 1 - Tbag (Terran) - Unit born Marine [7740002]
+07:56	Player 2 - xBenx (Zerg) - Unit born Larva [7BC0001]
+07:58	Player 2 - xBenx (Zerg) - Unit born Hydralisk [7C40001]
+07:58	Player 2 - xBenx (Zerg) - Unit born Hydralisk [7C00002]
+08:00	Player 1 - Tbag (Terran) - Unit born SCV [2300002]
+08:02	Player 1 - Tbag (Terran) - Unit born SCV [6980002]
+08:04	Player 1 - Tbag (Terran) - Unit born Marine [5DC0006]
+08:04	Player 1 - Tbag (Terran) - Unit born Marine [7C80001]
+08:05	Player 1 - Tbag (Terran) - Unit born Marine [3A00002]
+08:05	Player 1 - Tbag (Terran) - Unit born Marine [7CC0001]
+08:07	Player 2 - xBenx (Zerg) - Unit born Larva [7D00002]
+08:11	Player 2 - xBenx (Zerg) - Unit born Drone [6280003]
+08:11	Player 2 - xBenx (Zerg) - Unit born Drone [6F80003]
+08:12	Player 1 - Tbag (Terran) - Unit born Medivac [7100002]
+08:13	Player 1 - Tbag (Terran) - Unit born Marine [6280004]
+08:14	Player 1 - Tbag (Terran) - Unit born SiegeTank [BC0002]
+08:18	Player 2 - xBenx (Zerg) - Unit born Larva [2580002]
+08:18	Player 2 - xBenx (Zerg) - Unit born Larva [74C0002]
+08:22	Player 1 - Tbag (Terran) - Unit born Marine [1480002]
+08:22	Player 1 - Tbag (Terran) - Unit born Marine [7600003]
+08:22	Player 1 - Tbag (Terran) - Unit born Marine [4C0002]
+08:22	Player 1 - Tbag (Terran) - Unit born Marine [1500002]
+08:31	Player 2 - xBenx (Zerg) - Unit born Hydralisk [380002]
+08:31	Player 2 - xBenx (Zerg) - Unit born Hydralisk [A80003]
+08:31	Player 1 - Tbag (Terran) - Unit born Marine [68C0004]
+08:32	Player 2 - xBenx (Zerg) - Unit born Larva [15C0002]
+08:38	Player 1 - Tbag (Terran) - Unit born Marine [7D40003]
+08:38	Player 1 - Tbag (Terran) - Unit born Marine [7D80001]
+08:38	Player 1 - Tbag (Terran) - Unit born Marine [7E00001]
+08:40	Player 1 - Tbag (Terran) - Unit born Marine [7E40002]
+08:40	Player 1 - Tbag (Terran) - Unit born Marine [7E80001]
+08:44	Player 2 - xBenx (Zerg) - Unit born Larva [380003]
+08:45	Player 2 - xBenx (Zerg) - Unit born Hydralisk [A80005]
+08:45	Player 2 - xBenx (Zerg) - Unit born Drone [78C0008]
+08:45	Player 2 - xBenx (Zerg) - Unit born Drone [7700005]
+08:55	Player 2 - xBenx (Zerg) - Unit born Larva [48C0008]
+09:05	Player 2 - xBenx (Zerg) - Unit born Larva [5400006]
+09:05	Player 2 - xBenx (Zerg) - Unit born Larva [5540009]
+09:07	Player 1 - Tbag (Terran) - Unit born Marine [5700003]
+09:08	Player 1 - Tbag (Terran) - Unit born Marine [4600008]
+09:08	Player 1 - Tbag (Terran) - Unit born Marine [5F00003]
+09:08	Player 1 - Tbag (Terran) - Unit born Marine [6480004]
+09:08	Player 1 - Tbag (Terran) - Unit born Marine [5AC0007]
+09:08	Player 1 - Tbag (Terran) - Unit born Marine [3180004]
+09:08	Player 1 - Tbag (Terran) - Unit born Marine [67C0004]
+09:08	Player 1 - Tbag (Terran) - Unit born Marine [6580003]
+09:11	Player 2 - xBenx (Zerg) - Unit born Zergling [6EC0009]
+09:11	Player 2 - xBenx (Zerg) - Unit born Zergling [6FC0003]
+09:11	Player 2 - xBenx (Zerg) - Unit born Zergling [380004]
+09:11	Player 2 - xBenx (Zerg) - Unit born Zergling [7C40005]
+09:11	Player 2 - xBenx (Zerg) - Unit born Zergling [15C0003]
+09:11	Player 2 - xBenx (Zerg) - Unit born Zergling [7C00005]
+00:14	Player 2 - xBenx (Zerg) - Unit died Larva [4540001].
+00:30	Player 2 - xBenx (Zerg) - Unit died Larva [4580001].
+01:00	Player 2 - xBenx (Zerg) - Unit died Larva [45C0001].
+01:04	Player 2 - xBenx (Zerg) - Unit died Larva [4980001].
+01:10	Player 2 - xBenx (Zerg) - Unit died Larva [4A40001].
+01:18	Player 2 - xBenx (Zerg) - Unit died Drone [4800001].
+01:22	Player 2 - xBenx (Zerg) - Unit died Larva [4B80001].
+01:56	Player 2 - xBenx (Zerg) - Unit died Drone [4A80001].
+02:03	Player 2 - xBenx (Zerg) - Unit died Larva [4A40002].
+02:05	Player 2 - xBenx (Zerg) - Unit died Larva [4B80002].
+02:05	Player 2 - xBenx (Zerg) - Unit died Larva [4C80001].
+02:11	Player 2 - xBenx (Zerg) - Unit died Larva [4E80001].
+02:12	Player 2 - xBenx (Zerg) - Unit died Larva [4EC0001].
+02:13	Player 2 - xBenx (Zerg) - Unit died Drone [4640001].
+02:34	Player 2 - xBenx (Zerg) - Unit died Larva [4F80001].
+02:34	Player 2 - xBenx (Zerg) - Unit died Larva [5040001].
+02:40	Player 2 - xBenx (Zerg) - Unit died Larva [4F40001].
+02:45	Player 1 - Tbag (Terran) - Unit died KD8Charge [5340001].
+03:01	Player 1 - Tbag (Terran) - Unit died MULE [4E00001].
+03:10	Player 2 - xBenx (Zerg) - Unit died Drone [4CC0001].
+03:17	Player 2 - xBenx (Zerg) - Unit died Drone [4E80002].
+03:17	Player 2 - xBenx (Zerg) - Unit died Larva [5100001].
+03:17	Player 2 - xBenx (Zerg) - Unit died Larva [5280001].
+03:17	Player 2 - xBenx (Zerg) - Unit died Larva [53C0001].
+03:25	Player 2 - xBenx (Zerg) - Unit died Larva [5000001].
+03:25	Player 2 - xBenx (Zerg) - Unit died Larva [50C0001].
+03:25	Player 2 - xBenx (Zerg) - Unit died Larva [5240001].
+03:37	Player 2 - xBenx (Zerg) - Unit died Larva [5540005].
+03:37	Player 2 - xBenx (Zerg) - Unit died Larva [55C0001].
+03:38	Player 2 - xBenx (Zerg) - Unit died Larva [5640001].
+03:38	Player 2 - xBenx (Zerg) - Unit died Larva [56C0001].
+03:47	Player 2 - xBenx (Zerg) - Unit died Zergling [57C0001].
+03:57	Player 2 - xBenx (Zerg) - Unit died Zergling [5780001].
+04:00	Player 1 - Tbag (Terran) - Unit died Reaper [4EC0002].
+04:00	Player 2 - xBenx (Zerg) - Unit died Drone [49C0001].
+04:06	Player 2 - xBenx (Zerg) - Unit died Larva [53C0002].
+04:06	Player 2 - xBenx (Zerg) - Unit died Larva [56C0002].
+04:06	Player 2 - xBenx (Zerg) - Unit died Larva [5880001].
+04:07	Player 2 - xBenx (Zerg) - Unit died Larva [5600002].
+04:07	Player 2 - xBenx (Zerg) - Unit died Larva [5A00001].
+04:07	Player 1 - Tbag (Terran) - Unit died MULE [54C0001].
+04:15	Player 2 - xBenx (Zerg) - Unit died Larva [5B00001].
+04:24	Player 2 - xBenx (Zerg) - Unit died Larva [4EC0003].
+04:24	Player 2 - xBenx (Zerg) - Unit died Larva [5B40002].
+04:27	Player 2 - xBenx (Zerg) - Unit died Drone [59C0001].
+04:28	Player 2 - xBenx (Zerg) - Unit died Drone [5540006].
+04:30	Player 2 - xBenx (Zerg) - Unit died Larva [5B80001].
+04:32	Player 1 - Tbag (Terran) - Unit died MULE [5740001].
+04:32	Player 2 - xBenx (Zerg) - Unit died Drone [4780001].
+04:45	Player 2 - xBenx (Zerg) - Unit died Larva [5B40003].
+04:45	Player 2 - xBenx (Zerg) - Unit died Zergling [5880002].
+04:45	Player 2 - xBenx (Zerg) - Unit died Larva [5C00002].
+04:45	Player 2 - xBenx (Zerg) - Unit died Larva [5EC0002].
+04:45	Player 2 - xBenx (Zerg) - Unit died Larva [5E00001].
+04:49	Player 2 - xBenx (Zerg) - Unit died Drone [4A40003].
+04:55	Player 2 - xBenx (Zerg) - Unit died Drone [55C0002].
+04:56	Player 2 - xBenx (Zerg) - Unit died Drone [4600001].
+05:12	Player 2 - xBenx (Zerg) - Unit died Larva [5B80002].
+05:17	Player 1 - Tbag (Terran) - Unit died MULE [54C0002].
+05:25	Player 2 - xBenx (Zerg) - Unit died Larva [6280001].
+05:25	Player 2 - xBenx (Zerg) - Unit died Larva [6340001].
+05:25	Player 2 - xBenx (Zerg) - Unit died Larva [6640001].
+05:31	Player 2 - xBenx (Zerg) - Unit died Zergling [50C0002].
+05:35	Player 1 - Tbag (Terran) - Unit died MULE [61C0001].
+05:40	Player 2 - xBenx (Zerg) - Unit died SpineCrawler [6C40001].
+05:40	Player 2 - xBenx (Zerg) - Unit died Drone [4E80003].
+05:42	Player 2 - xBenx (Zerg) - Unit died Drone [5100002].
+05:42	Player 2 - xBenx (Zerg) - Unit died Larva [6780001].
+05:43	Player 2 - xBenx (Zerg) - Unit died Larva [6800001].
+05:43	Player 2 - xBenx (Zerg) - Unit died Larva [6880001].
+05:44	Player 2 - xBenx (Zerg) - Unit died Drone [5640002].
+05:44	Player 2 - xBenx (Zerg) - Unit died EvolutionChamber [54C0003].
+05:44	Player 2 - xBenx (Zerg) - Unit died Broodling [5640003].
+05:45	Player 2 - xBenx (Zerg) - Unit died Broodling [6880002].
+05:45	Player 2 - xBenx (Zerg) - Unit died Broodling [4E80004].
+05:45	Player 2 - xBenx (Zerg) - Unit died Broodling [6D80003].
+05:45	Player 2 - xBenx (Zerg) - Unit died Broodling [54C0004].
+05:45	Player 2 - xBenx (Zerg) - Unit died Broodling [6E40002].
+05:46	Player 2 - xBenx (Zerg) - Unit died Overlord [4C40001].
+05:48	Player 2 - xBenx (Zerg) - Unit died Zergling [5D80001].
+05:48	Player 2 - xBenx (Zerg) - Unit died Zergling [5600003].
+05:49	Player 2 - xBenx (Zerg) - Unit died Zergling [5000002].
+05:49	Player 2 - xBenx (Zerg) - Unit died Zergling [5840001].
+05:50	Player 2 - xBenx (Zerg) - Unit died Zergling [5800001].
+05:50	Player 2 - xBenx (Zerg) - Unit died Zergling [5D40001].
+05:50	Player 2 - xBenx (Zerg) - Unit died Drone [51C0001].
+05:52	Player 2 - xBenx (Zerg) - Unit died Drone [5280002].
+05:52	Player 2 - xBenx (Zerg) - Unit died Drone [4800002].
+05:55	Player 2 - xBenx (Zerg) - Unit died Queen [5400001].
+06:00	Player 1 - Tbag (Terran) - Unit died Marine [5DC0001].
+06:00	Player 2 - xBenx (Zerg) - Unit died Drone [4740001].
+06:01	Player 2 - xBenx (Zerg) - Unit died Queen [5340002].
+06:02	Player 2 - xBenx (Zerg) - Unit died Larva [5E80001].
+06:03	Player 2 - xBenx (Zerg) - Unit died SporeCrawler [6C80001].
+06:07	Player 2 - xBenx (Zerg) - Unit died Drone [5B40004].
+06:08	Player 2 - xBenx (Zerg) - Unit died Drone [4980002].
+06:09	Player 2 - xBenx (Zerg) - Unit died SporeCrawler [4780002].
+06:21	Player 1 - Tbag (Terran) - Unit died MULE [6940002].
+06:24	Player 2 - xBenx (Zerg) - Unit died Larva [51C0006].
+06:25	Player 2 - xBenx (Zerg) - Unit died Larva [5F00001].
+06:25	Player 2 - xBenx (Zerg) - Unit died Larva [61C0002].
+06:25	Player 2 - xBenx (Zerg) - Unit died Larva [63C0001].
+06:35	Player 2 - xBenx (Zerg) - Unit died Larva [4980003].
+06:35	Player 2 - xBenx (Zerg) - Unit died Larva [5800002].
+06:35	Player 2 - xBenx (Zerg) - Unit died Larva [5B40005].
+06:37	Player 2 - xBenx (Zerg) - Unit died Larva [528000B].
+06:37	Player 2 - xBenx (Zerg) - Unit died Larva [6880003].
+06:42	Player 2 - xBenx (Zerg) - Unit died Larva [5640005].
+06:43	Player 2 - xBenx (Zerg) - Unit died Larva [6F80001].
+06:57	Player 2 - xBenx (Zerg) - Unit died Drone [4700001].
+07:15	Player 2 - xBenx (Zerg) - Unit died Larva [6CC0001].
+07:15	Player 2 - xBenx (Zerg) - Unit died Larva [6D40001].
+07:15	Player 2 - xBenx (Zerg) - Unit died Larva [6DC0001].
+07:17	Player 1 - Tbag (Terran) - Unit died MULE [5DC0003].
+07:17	Player 1 - Tbag (Terran) - Unit died MULE [5000004].
+07:22	Player 2 - xBenx (Zerg) - Unit died Drone [5B40006].
+07:26	Player 2 - xBenx (Zerg) - Unit died Hatchery [4A40004].
+07:27	Player 2 - xBenx (Zerg) - Unit died Drone [5EC0003].
+07:32	Player 2 - xBenx (Zerg) - Unit died Broodling [4A40005].
+07:32	Player 2 - xBenx (Zerg) - Unit died Broodling [7A40001].
+07:32	Player 2 - xBenx (Zerg) - Unit died Broodling [6DC0002].
+07:32	Player 2 - xBenx (Zerg) - Unit died Broodling [7900001].
+07:32	Player 2 - xBenx (Zerg) - Unit died Broodling [79C0001].
+07:32	Player 2 - xBenx (Zerg) - Unit died Broodling [78C0001].
+07:32	Player 2 - xBenx (Zerg) - Unit died Broodling [7940001].
+07:32	Player 2 - xBenx (Zerg) - Unit died Broodling [7A00001].
+07:32	Player 2 - xBenx (Zerg) - Unit died Broodling [7980001].
+07:32	Player 2 - xBenx (Zerg) - Unit died Drone [5640006].
+07:40	Player 2 - xBenx (Zerg) - Unit died Larva [6480001].
+07:40	Player 2 - xBenx (Zerg) - Unit died Larva [6500001].
+07:40	Player 2 - xBenx (Zerg) - Unit died Larva [6580001].
+07:40	Player 2 - xBenx (Zerg) - Unit died Larva [67C0002].
+07:40	Player 2 - xBenx (Zerg) - Unit died Larva [68C0002].
+07:50	Player 2 - xBenx (Zerg) - Unit died Larva [6EC0002].
+07:55	Player 2 - xBenx (Zerg) - Unit died Larva [7740001].
+07:58	Player 2 - xBenx (Zerg) - Unit died Larva [5DC0004].
+07:58	Player 2 - xBenx (Zerg) - Unit died Larva [6980001].
+08:07	Player 2 - xBenx (Zerg) - Unit died Drone [6CC0002].
+08:08	Player 2 - xBenx (Zerg) - Unit died CreepTumor [C00002].
+08:10	Player 2 - xBenx (Zerg) - Unit died Drone [6280002].
+08:11	Player 2 - xBenx (Zerg) - Unit died Larva [6F80002].
+08:11	Player 2 - xBenx (Zerg) - Unit died Larva [7100001].
+08:13	Player 2 - xBenx (Zerg) - Unit died Drone [6280003].
+08:14	Player 2 - xBenx (Zerg) - Unit died Drone [6F80003].
+08:16	Player 2 - xBenx (Zerg) - Unit died Larva [74C0001].
+08:20	Player 1 - Tbag (Terran) - Unit died MULE [7600002].
+08:31	Player 2 - xBenx (Zerg) - Unit died Larva [A80002].
+08:31	Player 2 - xBenx (Zerg) - Unit died Larva [68C0003].
+08:40	Player 2 - xBenx (Zerg) - Unit died SpineCrawler [71C0001].
+08:40	Player 2 - xBenx (Zerg) - Unit died Drone [53C0003].
+08:40	Player 2 - xBenx (Zerg) - Unit died Drone [7B80001].
+08:41	Player 1 - Tbag (Terran) - Unit died Marine [78C0002].
+08:42	Player 1 - Tbag (Terran) - Unit died Marine [5000005].
+08:42	Player 2 - xBenx (Zerg) - Unit died SpineCrawler [7540001].
+08:42	Player 1 - Tbag (Terran) - Unit died Marine [7700001].
+08:43	Player 2 - xBenx (Zerg) - Unit died Hydralisk [A80003].
+08:43	Player 1 - Tbag (Terran) - Unit died Marine [7A40002].
+08:44	Player 2 - xBenx (Zerg) - Unit died Hydralisk [380002].
+08:44	Player 1 - Tbag (Terran) - Unit died Marine [7AC0001].
+08:45	Player 1 - Tbag (Terran) - Unit died Marine [7A00002].
+08:45	Player 2 - xBenx (Zerg) - Unit died Larva [2580002].
+08:45	Player 2 - xBenx (Zerg) - Unit died Larva [74C0002].
+08:45	Player 1 - Tbag (Terran) - Unit died Medivac [7200001].
+08:45	Player 2 - xBenx (Zerg) - Unit died Larva [7BC0001].
+08:46	Player 2 - xBenx (Zerg) - Unit died Roach [51C0007].
+08:47	Player 1 - Tbag (Terran) - Unit died Marine [7400001].
+08:47	Player 1 - Tbag (Terran) - Unit died Marine [6DC0003].
+08:48	Player 1 - Tbag (Terran) - Unit died Marine [7380001].
+08:48	Player 1 - Tbag (Terran) - Unit died Marine [76C0001].
+08:49	Player 2 - xBenx (Zerg) - Unit died Drone [6340002].
+08:50	Player 1 - Tbag (Terran) - Unit died Marine [73C0001].
+08:50	Player 1 - Tbag (Terran) - Unit died Marine [79C0002].
+08:50	Player 1 - Tbag (Terran) - Unit died Medivac [7240001].
+08:50	Player 2 - xBenx (Zerg) - Unit died Drone [48C0001].
+08:50	Player 2 - xBenx (Zerg) - Unit died Roach [6500002].
+08:51	Player 2 - xBenx (Zerg) - Unit died Roach [61C0003].
+08:52	Player 1 - Tbag (Terran) - Unit died Marine [7A80001].
+08:52	Player 2 - xBenx (Zerg) - Unit died SpineCrawler [6F00002].
+08:52	Player 1 - Tbag (Terran) - Unit died Marine [7480001].
+08:52	Player 1 - Tbag (Terran) - Unit died Marine [7680001].
+08:53	Player 1 - Tbag (Terran) - Unit died Marine [7640001].
+08:54	Player 2 - xBenx (Zerg) - Unit died SporeCrawler [3940002].
+08:55	Player 2 - xBenx (Zerg) - Unit died Drone [64C0002].
+08:56	Player 2 - xBenx (Zerg) - Unit died Drone [7140001].
+08:56	Player 1 - Tbag (Terran) - Unit died MULE [4A40006].
+08:57	Player 2 - xBenx (Zerg) - Unit died Hydralisk [A80005].
+08:57	Player 1 - Tbag (Terran) - Unit died MULE [6EC0003].
+08:58	Player 2 - xBenx (Zerg) - Unit died Drone [5300001].
+08:59	Player 1 - Tbag (Terran) - Unit died Marine [4600002].
+09:00	Player 2 - xBenx (Zerg) - Unit died Hydralisk [7C40001].
+09:00	Player 2 - xBenx (Zerg) - Unit died Hydralisk [7C00002].
+09:01	Player 1 - Tbag (Terran) - Unit died Marine [5AC0001].
+09:01	Player 2 - xBenx (Zerg) - Unit died Roach [6FC0001].
+09:02	Player 2 - xBenx (Zerg) - Unit died Roach [67C0003].
+09:02	Player 1 - Tbag (Terran) - Unit died Marine [5540007].
+09:04	Player 2 - xBenx (Zerg) - Unit died Roach [5400005].
+09:05	Player 2 - xBenx (Zerg) - Unit died Roach [3180002].
+09:06	Player 2 - xBenx (Zerg) - Unit died Roach [6480002].
+09:07	Player 2 - xBenx (Zerg) - Unit died Roach [5F00002].
+09:07	Player 1 - Tbag (Terran) - Unit died Marine [5700002].
+09:08	Player 2 - xBenx (Zerg) - Unit died Roach [6580002].
+09:11	Player 2 - xBenx (Zerg) - Unit died Larva [380003].
+09:11	Player 2 - xBenx (Zerg) - Unit died Larva [15C0002].
+09:11	Player 2 - xBenx (Zerg) - Unit died Larva [7D00002].
+09:13	Player 2 - xBenx (Zerg) - Unit died Zergling [6FC0003].
+09:14	Player 2 - xBenx (Zerg) - Unit died Zergling [7C00005].
+09:14	Player 2 - xBenx (Zerg) - Unit died Zergling [6EC0009].
+09:15	Player 2 - xBenx (Zerg) - Unit died Zergling [15C0003].
+09:15	Player 2 - xBenx (Zerg) - Unit died SporeCrawler [6F80004].
+00:17	Player 1 - Tbag (Terran) - Unit initiated SupplyDepotLowered [4540002]
+00:39	Player 1 - Tbag (Terran) - Unit initiated Barracks [4AC0001]
+00:45	Player 2 - xBenx (Zerg) - Unit initiated Hatchery [4B00001]
+00:52	Player 1 - Tbag (Terran) - Unit initiated Refinery [4BC0001]
+00:57	Player 2 - xBenx (Zerg) - Unit initiated Extractor [4C00001]
+01:27	Player 2 - xBenx (Zerg) - Unit initiated SpawningPool [4D40001]
+01:45	Player 1 - Tbag (Terran) - Unit initiated OrbitalCommand [4DC0001]
+01:55	Player 1 - Tbag (Terran) - Unit initiated SupplyDepot [4E40001]
+02:06	Player 1 - Tbag (Terran) - Unit initiated Barracks [4C80002]
+02:16	Player 1 - Tbag (Terran) - Unit initiated Refinery [4640002]
+02:30	Player 1 - Tbag (Terran) - Unit initiated Factory [5140001]
+02:35	Player 2 - xBenx (Zerg) - Unit initiated SpineCrawler [5040002]
+02:41	Player 2 - xBenx (Zerg) - Unit initiated SpineCrawler [52C0002]
+02:41	Player 1 - Tbag (Terran) - Unit initiated BarracksTechLab [4F40002]
+02:57	Player 2 - xBenx (Zerg) - Unit initiated CreepTumorBurrowed [5480001]
+03:08	Player 1 - Tbag (Terran) - Unit initiated Barracks [4E00003]
+03:25	Player 2 - xBenx (Zerg) - Unit initiated SpineCrawler [5680002]
+03:27	Player 1 - Tbag (Terran) - Unit initiated StarportReactor [5240002]
+03:29	Player 1 - Tbag (Terran) - Unit initiated Starport [58C0001]
+03:43	Player 1 - Tbag (Terran) - Unit initiated SupplyDepotLowered [5A40001]
+03:52	Player 2 - xBenx (Zerg) - Unit initiated RoachWarren [5CC0001]
+04:06	Player 2 - xBenx (Zerg) - Unit initiated Extractor [5C80005]
+04:07	Player 2 - xBenx (Zerg) - Unit initiated Extractor [5A00002]
+04:14	Player 1 - Tbag (Terran) - Unit initiated SupplyDepot [5F40002]
+04:17	Player 1 - Tbag (Terran) - Unit initiated FactoryTechLab [5B00002]
+04:23	Player 1 - Tbag (Terran) - Unit initiated EngineeringBay [6080001]
+04:26	Player 1 - Tbag (Terran) - Unit initiated BarracksReactor [6140001]
+04:27	Player 2 - xBenx (Zerg) - Unit initiated Extractor [59C0002]
+04:33	Player 2 - xBenx (Zerg) - Unit initiated SporeCrawler [4780002]
+04:35	Player 2 - xBenx (Zerg) - Unit initiated SporeCrawler [5740002]
+04:36	Player 1 - Tbag (Terran) - Unit initiated SupplyDepot [6300001]
+04:38	Player 1 - Tbag (Terran) - Unit initiated SupplyDepot [62C0002]
+04:40	Player 2 - xBenx (Zerg) - Unit initiated CreepTumorBurrowed [6400001]
+04:49	Player 2 - xBenx (Zerg) - Unit initiated Hatchery [4A40004]
+04:51	Player 1 - Tbag (Terran) - Unit initiated Refinery [5880003]
+04:53	Player 1 - Tbag (Terran) - Unit initiated Refinery [6600001]
+04:59	Player 1 - Tbag (Terran) - Unit initiated SupplyDepot [55C0003]
+05:01	Player 1 - Tbag (Terran) - Unit initiated SupplyDepotLowered [66C0001]
+05:05	Player 1 - Tbag (Terran) - Unit initiated BarracksReactor [6900001]
+05:17	Player 2 - xBenx (Zerg) - Unit initiated EvolutionChamber [54C0003]
+05:19	Player 2 - xBenx (Zerg) - Unit initiated EvolutionChamber [6A80001]
+05:27	Player 1 - Tbag (Terran) - Unit initiated OrbitalCommand [6B80001]
+05:28	Player 2 - xBenx (Zerg) - Unit initiated SpineCrawler [6C40001]
+05:29	Player 2 - xBenx (Zerg) - Unit initiated SporeCrawler [6C80001]
+05:40	Player 2 - xBenx (Zerg) - Unit initiated HydraliskDen [6D00002]
+06:09	Player 2 - xBenx (Zerg) - Unit initiated CreepTumorBurrowed [6D80004]
+06:09	Player 1 - Tbag (Terran) - Unit initiated Armory [6C40002]
+06:09	Player 1 - Tbag (Terran) - Unit initiated EngineeringBay [54C0007]
+06:13	Player 1 - Tbag (Terran) - Unit initiated SupplyDepotLowered [5D80003]
+06:22	Player 2 - xBenx (Zerg) - Unit initiated SpineCrawler [6F00002]
+06:31	Player 1 - Tbag (Terran) - Unit initiated SupplyDepotLowered [7080001]
+06:32	Player 1 - Tbag (Terran) - Unit initiated SupplyDepotLowered [70C0001]
+06:44	Player 2 - xBenx (Zerg) - Unit initiated BanelingNest [5800003]
+06:46	Player 2 - xBenx (Zerg) - Unit initiated SpineCrawler [71C0001]
+06:52	Player 1 - Tbag (Terran) - Unit initiated SupplyDepotLowered [7340001]
+06:54	Player 1 - Tbag (Terran) - Unit initiated SupplyDepotLowered [7500001]
+06:57	Player 2 - xBenx (Zerg) - Unit initiated SpineCrawler [7540001]
+07:10	Player 2 - xBenx (Zerg) - Unit initiated CreepTumorBurrowed [75C0001]
+07:14	Player 1 - Tbag (Terran) - Unit initiated Barracks [77C0001]
+07:14	Player 1 - Tbag (Terran) - Unit initiated Barracks [7800001]
+07:15	Player 1 - Tbag (Terran) - Unit initiated Barracks [7840001]
+07:45	Player 1 - Tbag (Terran) - Unit initiated SupplyDepot [2C40002]
+07:46	Player 2 - xBenx (Zerg) - Unit initiated SporeCrawler [7940002]
+07:47	Player 1 - Tbag (Terran) - Unit initiated Refinery [7900002]
+07:49	Player 2 - xBenx (Zerg) - Unit initiated SporeCrawler [3080002]
+07:50	Player 1 - Tbag (Terran) - Unit initiated Refinery [7B40001]
+07:57	Player 2 - xBenx (Zerg) - Unit initiated CreepTumor [C00002]
+08:27	Player 2 - xBenx (Zerg) - Unit initiated SporeCrawler [3940002]
+08:29	Player 2 - xBenx (Zerg) - Unit initiated SporeCrawler [6F80004]
+08:33	Player 2 - xBenx (Zerg) - Unit initiated SporeCrawler [C00003]
+08:35	Player 2 - xBenx (Zerg) - Unit initiated SporeCrawler [32C0003]
+00:02	Player 2 - xBenx (Zerg) - Unit Larva [4540001] type changed to Egg
+00:14	Player 2 - xBenx (Zerg) - Unit Larva [4540001] type changed to Larva
+00:18	Player 2 - xBenx (Zerg) - Unit Larva [4580001] type changed to Egg
+00:30	Player 2 - xBenx (Zerg) - Unit Larva [4580001] type changed to Larva
+00:42	Player 2 - xBenx (Zerg) - Unit Larva [45C0001] type changed to Egg
+00:52	Player 2 - xBenx (Zerg) - Unit Larva [4980001] type changed to Egg
+00:57	Player 2 - xBenx (Zerg) - Unit Larva [4A40001] type changed to Egg
+01:00	Player 2 - xBenx (Zerg) - Unit Larva [45C0001] type changed to Larva
+01:04	Player 2 - xBenx (Zerg) - Unit Larva [4980001] type changed to Larva
+01:10	Player 2 - xBenx (Zerg) - Unit Larva [4A40001] type changed to Larva
+01:10	Player 2 - xBenx (Zerg) - Unit Larva [4B80001] type changed to Egg
+01:22	Player 2 - xBenx (Zerg) - Unit Larva [4B80001] type changed to Larva
+01:45	Player 2 - xBenx (Zerg) - Unit Larva [4A40002] type changed to Egg
+01:51	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [4540002] type changed to SupplyDepotLowered
+01:53	Player 2 - xBenx (Zerg) - Unit Larva [4B80002] type changed to Egg
+01:53	Player 2 - xBenx (Zerg) - Unit Larva [4C80001] type changed to Egg
+01:53	Player 1 - Tbag (Terran) - Unit OrbitalCommand [41C0001] type changed to OrbitalCommand
+01:59	Player 2 - xBenx (Zerg) - Unit Larva [4E80001] type changed to Egg
+02:00	Player 2 - xBenx (Zerg) - Unit Larva [4EC0001] type changed to Egg
+02:03	Player 2 - xBenx (Zerg) - Unit Larva [4A40002] type changed to Larva
+02:05	Player 2 - xBenx (Zerg) - Unit Larva [4B80002] type changed to Larva
+02:05	Player 2 - xBenx (Zerg) - Unit Larva [4C80001] type changed to Larva
+02:11	Player 2 - xBenx (Zerg) - Unit Larva [4E80001] type changed to Larva
+02:12	Player 2 - xBenx (Zerg) - Unit Larva [4EC0001] type changed to Larva
+02:22	Player 2 - xBenx (Zerg) - Unit Larva [4F80001] type changed to Egg
+02:22	Player 2 - xBenx (Zerg) - Unit Larva [5040001] type changed to Egg
+02:27	Player 2 - xBenx (Zerg) - Unit Larva [4F40001] type changed to Egg
+02:34	Player 2 - xBenx (Zerg) - Unit Larva [4F80001] type changed to Larva
+02:34	Player 2 - xBenx (Zerg) - Unit Larva [5040001] type changed to Larva
+02:36	Player 1 - Tbag (Terran) - Unit Barracks [4AC0001] type changed to BarracksFlying
+02:40	Player 2 - xBenx (Zerg) - Unit Larva [4F40001] type changed to Larva
+02:41	Player 1 - Tbag (Terran) - Unit Barracks [4AC0001] type changed to Barracks
+03:05	Player 2 - xBenx (Zerg) - Unit Larva [5100001] type changed to Egg
+03:05	Player 2 - xBenx (Zerg) - Unit Larva [5280001] type changed to Egg
+03:05	Player 2 - xBenx (Zerg) - Unit Larva [53C0001] type changed to Egg
+03:07	Player 2 - xBenx (Zerg) - Unit Larva [5000001] type changed to Egg
+03:07	Player 2 - xBenx (Zerg) - Unit Larva [50C0001] type changed to Egg
+03:07	Player 2 - xBenx (Zerg) - Unit Larva [5240001] type changed to Egg
+03:08	Player 2 - xBenx (Zerg) - Unit CreepTumorBurrowed [5480001] type changed to CreepTumorBurrowed
+03:17	Player 2 - xBenx (Zerg) - Unit Larva [5100001] type changed to Larva
+03:17	Player 2 - xBenx (Zerg) - Unit Larva [5280001] type changed to Larva
+03:17	Player 2 - xBenx (Zerg) - Unit Larva [53C0001] type changed to Larva
+03:21	Player 2 - xBenx (Zerg) - Unit SpineCrawler [52C0002] type changed to SpineCrawlerUprooted
+03:22	Player 1 - Tbag (Terran) - Unit OrbitalCommand [4DC0001] type changed to OrbitalCommand
+03:25	Player 2 - xBenx (Zerg) - Unit Larva [5000001] type changed to Larva
+03:25	Player 2 - xBenx (Zerg) - Unit Larva [50C0001] type changed to Larva
+03:25	Player 2 - xBenx (Zerg) - Unit Larva [5240001] type changed to Larva
+03:25	Player 2 - xBenx (Zerg) - Unit Larva [5540005] type changed to Egg
+03:25	Player 2 - xBenx (Zerg) - Unit Larva [55C0001] type changed to Egg
+03:26	Player 2 - xBenx (Zerg) - Unit Larva [5640001] type changed to Egg
+03:26	Player 2 - xBenx (Zerg) - Unit Larva [56C0001] type changed to Egg
+03:36	Player 2 - xBenx (Zerg) - Unit SpineCrawler [52C0002] type changed to SpineCrawler
+03:37	Player 2 - xBenx (Zerg) - Unit Larva [5540005] type changed to Larva
+03:37	Player 2 - xBenx (Zerg) - Unit Larva [55C0001] type changed to Larva
+03:38	Player 2 - xBenx (Zerg) - Unit Larva [5640001] type changed to Larva
+03:38	Player 2 - xBenx (Zerg) - Unit Larva [56C0001] type changed to Larva
+03:50	Player 2 - xBenx (Zerg) - Unit Larva [5600002] type changed to Egg
+03:50	Player 2 - xBenx (Zerg) - Unit Larva [5A00001] type changed to Egg
+03:54	Player 2 - xBenx (Zerg) - Unit Larva [53C0002] type changed to Egg
+03:54	Player 2 - xBenx (Zerg) - Unit Larva [56C0002] type changed to Egg
+03:54	Player 2 - xBenx (Zerg) - Unit Larva [5880001] type changed to Egg
+04:02	Player 2 - xBenx (Zerg) - Unit Larva [5B00001] type changed to Egg
+04:06	Player 1 - Tbag (Terran) - Unit Factory [5140001] type changed to FactoryFlying
+04:06	Player 2 - xBenx (Zerg) - Unit Larva [4EC0003] type changed to Egg
+04:06	Player 1 - Tbag (Terran) - Unit StarportReactor [5240002] type changed to Reactor
+04:06	Player 2 - xBenx (Zerg) - Unit Larva [53C0002] type changed to Larva
+04:06	Player 2 - xBenx (Zerg) - Unit Larva [5B40002] type changed to Egg
+04:06	Player 2 - xBenx (Zerg) - Unit Larva [56C0002] type changed to Larva
+04:06	Player 2 - xBenx (Zerg) - Unit Larva [5880001] type changed to Larva
+04:07	Player 2 - xBenx (Zerg) - Unit Larva [5600002] type changed to Larva
+04:07	Player 2 - xBenx (Zerg) - Unit Larva [5A00001] type changed to Larva
+04:07	Player 1 - Tbag (Terran) - Unit Starport [58C0001] type changed to StarportFlying
+04:12	Player 2 - xBenx (Zerg) - Unit Larva [5B80001] type changed to Egg
+04:12	Player 1 - Tbag (Terran) - Unit Starport [58C0001] type changed to Starport
+04:12	Player 1 - Tbag (Terran) - Unit StarportReactor [5240002] type changed to StarportReactor
+04:15	Player 1 - Tbag (Terran) - Unit Factory [5140001] type changed to Factory
+04:15	Player 2 - xBenx (Zerg) - Unit Larva [5B00001] type changed to Larva
+04:24	Player 2 - xBenx (Zerg) - Unit Larva [4EC0003] type changed to Larva
+04:24	Player 2 - xBenx (Zerg) - Unit Larva [5B40002] type changed to Larva
+04:30	Player 2 - xBenx (Zerg) - Unit Larva [5B80001] type changed to Larva
+04:32	Player 2 - xBenx (Zerg) - Unit Larva [5B40003] type changed to Egg
+04:32	Player 2 - xBenx (Zerg) - Unit Larva [5C00002] type changed to Egg
+04:32	Player 2 - xBenx (Zerg) - Unit Larva [5EC0002] type changed to Egg
+04:33	Player 2 - xBenx (Zerg) - Unit Larva [5E00001] type changed to Egg
+04:35	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [5A40001] type changed to SupplyDepotLowered
+04:45	Player 2 - xBenx (Zerg) - Unit Larva [5B40003] type changed to Larva
+04:45	Player 2 - xBenx (Zerg) - Unit Larva [5C00002] type changed to Larva
+04:45	Player 2 - xBenx (Zerg) - Unit Larva [5EC0002] type changed to Larva
+04:45	Player 2 - xBenx (Zerg) - Unit Larva [5E00001] type changed to Larva
+04:52	Player 2 - xBenx (Zerg) - Unit CreepTumorBurrowed [6400001] type changed to CreepTumorBurrowed
+04:54	Player 2 - xBenx (Zerg) - Unit Larva [5B80002] type changed to Egg
+05:12	Player 2 - xBenx (Zerg) - Unit Larva [5B80002] type changed to Larva
+05:12	Player 2 - xBenx (Zerg) - Unit Larva [6280001] type changed to Egg
+05:12	Player 2 - xBenx (Zerg) - Unit Larva [6340001] type changed to Egg
+05:13	Player 2 - xBenx (Zerg) - Unit Larva [6640001] type changed to Egg
+05:20	Player 2 - xBenx (Zerg) - Unit Lair [4500001] type changed to Lair
+05:21	Player 2 - xBenx (Zerg) - Unit SpineCrawler [5680002] type changed to SpineCrawlerUprooted
+05:25	Player 2 - xBenx (Zerg) - Unit Larva [6280001] type changed to Larva
+05:25	Player 2 - xBenx (Zerg) - Unit Larva [6340001] type changed to Larva
+05:25	Player 2 - xBenx (Zerg) - Unit Larva [6640001] type changed to Larva
+05:27	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [5A40001] type changed to SupplyDepot
+05:30	Player 2 - xBenx (Zerg) - Unit SporeCrawler [4780002] type changed to SporeCrawlerUprooted
+05:30	Player 2 - xBenx (Zerg) - Unit Larva [6780001] type changed to Egg
+05:31	Player 2 - xBenx (Zerg) - Unit Larva [6800001] type changed to Egg
+05:31	Player 2 - xBenx (Zerg) - Unit Larva [6880001] type changed to Egg
+05:35	Player 2 - xBenx (Zerg) - Unit SporeCrawler [4780002] type changed to SporeCrawler
+05:35	Player 2 - xBenx (Zerg) - Unit SpineCrawler [5680002] type changed to SpineCrawler
+05:42	Player 2 - xBenx (Zerg) - Unit Larva [6780001] type changed to Larva
+05:43	Player 2 - xBenx (Zerg) - Unit Larva [6800001] type changed to Larva
+05:43	Player 2 - xBenx (Zerg) - Unit Larva [5E80001] type changed to Egg
+05:43	Player 2 - xBenx (Zerg) - Unit Larva [6880001] type changed to Larva
+06:02	Player 2 - xBenx (Zerg) - Unit Larva [5E80001] type changed to Larva
+06:05	Player 2 - xBenx (Zerg) - Unit Larva [51C0006] type changed to Egg
+06:05	Player 2 - xBenx (Zerg) - Unit Larva [5F00001] type changed to Egg
+06:05	Player 2 - xBenx (Zerg) - Unit Larva [61C0002] type changed to Egg
+06:05	Player 2 - xBenx (Zerg) - Unit Larva [63C0001] type changed to Egg
+06:11	Player 2 - xBenx (Zerg) - Unit SpineCrawler [5680002] type changed to SpineCrawlerUprooted
+06:20	Player 2 - xBenx (Zerg) - Unit CreepTumorBurrowed [6D80004] type changed to CreepTumorBurrowed
+06:21	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [5A40001] type changed to SupplyDepotLowered
+06:22	Player 2 - xBenx (Zerg) - Unit Larva [4980003] type changed to Egg
+06:23	Player 2 - xBenx (Zerg) - Unit Larva [5800002] type changed to Egg
+06:23	Player 2 - xBenx (Zerg) - Unit Larva [5B40005] type changed to Egg
+06:24	Player 2 - xBenx (Zerg) - Unit SpineCrawler [5680002] type changed to SpineCrawler
+06:24	Player 2 - xBenx (Zerg) - Unit Larva [51C0006] type changed to Larva
+06:25	Player 2 - xBenx (Zerg) - Unit Larva [5F00001] type changed to Larva
+06:25	Player 2 - xBenx (Zerg) - Unit Larva [61C0002] type changed to Larva
+06:25	Player 2 - xBenx (Zerg) - Unit Larva [63C0001] type changed to Larva
+06:25	Player 2 - xBenx (Zerg) - Unit Larva [528000B] type changed to Egg
+06:25	Player 2 - xBenx (Zerg) - Unit Larva [6880003] type changed to Egg
+06:30	Player 2 - xBenx (Zerg) - Unit Larva [5640005] type changed to Egg
+06:31	Player 2 - xBenx (Zerg) - Unit Larva [6F80001] type changed to Egg
+06:35	Player 2 - xBenx (Zerg) - Unit Larva [4980003] type changed to Larva
+06:35	Player 2 - xBenx (Zerg) - Unit Larva [5800002] type changed to Larva
+06:35	Player 2 - xBenx (Zerg) - Unit Larva [5B40005] type changed to Larva
+06:37	Player 2 - xBenx (Zerg) - Unit Larva [528000B] type changed to Larva
+06:37	Player 2 - xBenx (Zerg) - Unit Larva [6880003] type changed to Larva
+06:40	Player 1 - Tbag (Terran) - Unit OrbitalCommand [6B80001] type changed to CommandCenterFlying
+06:42	Player 2 - xBenx (Zerg) - Unit Larva [5640005] type changed to Larva
+06:43	Player 2 - xBenx (Zerg) - Unit Larva [6F80001] type changed to Larva
+06:51	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [5D80003] type changed to SupplyDepotLowered
+06:55	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [66C0001] type changed to SupplyDepotLowered
+06:59	Player 1 - Tbag (Terran) - Unit SiegeTankSieged [7300001] type changed to SiegeTankSieged
+07:02	Player 2 - xBenx (Zerg) - Unit Larva [6CC0001] type changed to Egg
+07:02	Player 2 - xBenx (Zerg) - Unit Larva [6D40001] type changed to Egg
+07:02	Player 2 - xBenx (Zerg) - Unit Larva [6DC0001] type changed to Egg
+07:07	Player 1 - Tbag (Terran) - Unit OrbitalCommand [6B80001] type changed to CommandCenter
+07:11	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [7080001] type changed to SupplyDepotLowered
+07:11	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [70C0001] type changed to SupplyDepotLowered
+07:12	Player 2 - xBenx (Zerg) - Unit SpineCrawler [5680002] type changed to SpineCrawlerUprooted
+07:15	Player 2 - xBenx (Zerg) - Unit Larva [6CC0001] type changed to Larva
+07:15	Player 2 - xBenx (Zerg) - Unit SpineCrawler [6F00002] type changed to SpineCrawlerUprooted
+07:15	Player 2 - xBenx (Zerg) - Unit Larva [6D40001] type changed to Larva
+07:15	Player 2 - xBenx (Zerg) - Unit Larva [6DC0001] type changed to Larva
+07:20	Player 2 - xBenx (Zerg) - Unit Larva [6480001] type changed to Egg
+07:20	Player 2 - xBenx (Zerg) - Unit Larva [6500001] type changed to Egg
+07:20	Player 2 - xBenx (Zerg) - Unit Larva [6580001] type changed to Egg
+07:20	Player 2 - xBenx (Zerg) - Unit Larva [67C0002] type changed to Egg
+07:20	Player 2 - xBenx (Zerg) - Unit Larva [68C0002] type changed to Egg
+07:22	Player 2 - xBenx (Zerg) - Unit CreepTumorBurrowed [75C0001] type changed to CreepTumorBurrowed
+07:25	Player 2 - xBenx (Zerg) - Unit SpineCrawler [5680002] type changed to SpineCrawler
+07:28	Player 2 - xBenx (Zerg) - Unit SpineCrawler [6F00002] type changed to SpineCrawler
+07:35	Player 2 - xBenx (Zerg) - Unit Larva [5DC0004] type changed to Egg
+07:35	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [7340001] type changed to SupplyDepotLowered
+07:35	Player 1 - Tbag (Terran) - Unit SupplyDepotLowered [7500001] type changed to SupplyDepotLowered
+07:35	Player 2 - xBenx (Zerg) - Unit Larva [6980001] type changed to Egg
+07:38	Player 2 - xBenx (Zerg) - Unit Larva [6EC0002] type changed to Egg
+07:40	Player 2 - xBenx (Zerg) - Unit Larva [6480001] type changed to Larva
+07:40	Player 2 - xBenx (Zerg) - Unit Larva [6500001] type changed to Larva
+07:40	Player 2 - xBenx (Zerg) - Unit Larva [6580001] type changed to Larva
+07:40	Player 2 - xBenx (Zerg) - Unit Larva [67C0002] type changed to Larva
+07:40	Player 2 - xBenx (Zerg) - Unit Larva [68C0002] type changed to Larva
+07:42	Player 1 - Tbag (Terran) - Unit OrbitalCommand [6B80001] type changed to OrbitalCommand
+07:42	Player 2 - xBenx (Zerg) - Unit Larva [7740001] type changed to Egg
+07:50	Player 2 - xBenx (Zerg) - Unit Larva [6EC0002] type changed to Larva
+07:55	Player 2 - xBenx (Zerg) - Unit Larva [7740001] type changed to Larva
+07:58	Player 2 - xBenx (Zerg) - Unit Larva [5DC0004] type changed to Larva
+07:58	Player 2 - xBenx (Zerg) - Unit Larva [6980001] type changed to Larva
+07:59	Player 2 - xBenx (Zerg) - Unit Larva [6F80002] type changed to Egg
+07:59	Player 2 - xBenx (Zerg) - Unit Larva [7100001] type changed to Egg
+08:07	Player 2 - xBenx (Zerg) - Unit Larva [A80002] type changed to Egg
+08:07	Player 2 - xBenx (Zerg) - Unit Larva [68C0003] type changed to Egg
+08:11	Player 2 - xBenx (Zerg) - Unit Larva [6F80002] type changed to Larva
+08:11	Player 2 - xBenx (Zerg) - Unit Larva [7100001] type changed to Larva
+08:21	Player 2 - xBenx (Zerg) - Unit Larva [2580002] type changed to Egg
+08:31	Player 2 - xBenx (Zerg) - Unit Larva [A80002] type changed to Larva
+08:31	Player 2 - xBenx (Zerg) - Unit Larva [68C0003] type changed to Larva
+08:33	Player 2 - xBenx (Zerg) - Unit Larva [74C0002] type changed to Egg
+08:33	Player 2 - xBenx (Zerg) - Unit Larva [7BC0001] type changed to Egg
+08:45	Player 2 - xBenx (Zerg) - Unit Larva [2580002] type changed to Larva
+08:45	Player 2 - xBenx (Zerg) - Unit Larva [74C0002] type changed to Larva
+08:45	Player 2 - xBenx (Zerg) - Unit Larva [7BC0001] type changed to Larva
+08:54	Player 2 - xBenx (Zerg) - Unit Larva [380003] type changed to Egg
+08:54	Player 2 - xBenx (Zerg) - Unit Larva [15C0002] type changed to Egg
+08:54	Player 2 - xBenx (Zerg) - Unit Egg [6E00002] type changed to Egg
+08:54	Player 2 - xBenx (Zerg) - Unit Egg [6E80001] type changed to Egg
+08:54	Player 2 - xBenx (Zerg) - Unit Larva [7D00002] type changed to Egg
+09:11	Player 2 - xBenx (Zerg) - Unit Larva [380003] type changed to Larva
+09:11	Player 2 - xBenx (Zerg) - Unit Larva [15C0002] type changed to Larva
+09:11	Player 2 - xBenx (Zerg) - Unit Larva [7D00002] type changed to Larva
+00:45	Player 2 - xBenx (Zerg) - SprayZerg upgrade completed
+01:45	Player 1 - Tbag (Terran) - SprayTerran upgrade completed
+01:56	Player 2 - xBenx (Zerg) - SprayZerg upgrade completed
+02:57	Player 1 - Tbag (Terran) - SprayTerran upgrade completed
+04:49	Player 2 - xBenx (Zerg) - SprayZerg upgrade completed
+05:02	Player 2 - xBenx (Zerg) - zerglingmovementspeed upgrade completed
+05:12	Player 1 - Tbag (Terran) - Stimpack upgrade completed
+05:27	Player 1 - Tbag (Terran) - SprayTerran upgrade completed
+05:43	Player 2 - xBenx (Zerg) - overlordspeed upgrade completed
+06:00	Player 2 - xBenx (Zerg) - SprayZerg upgrade completed
+06:38	Player 1 - Tbag (Terran) - SprayTerran upgrade completed
+06:47	Player 1 - Tbag (Terran) - TerranInfantryWeaponsLevel1 upgrade completed
+07:02	Player 1 - Tbag (Terran) - ShieldWall upgrade completed
+07:27	Player 2 - xBenx (Zerg) - EvolveGroovedSpines upgrade completed
+07:50	Player 1 - Tbag (Terran) - PunisherGrenades upgrade completed
+08:37	Player 2 - xBenx (Zerg) - EvolveMuscularAugments upgrade completed
+08:45	Player 1 - Tbag (Terran) - TerranInfantryArmorsLevel1 upgrade completed
+09:12	Player 1 - Tbag (Terran) - TerranInfantryWeaponsLevel2 upgrade completed
+[Player 1 - Tbag (Terran)] is the winner.
